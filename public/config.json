@@ -8,8 +8,8 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template",
-          "description": "A Template for a custom Journey Builder activity",
+            "name": "Custom SMS",
+          "description": "An activity to send SMS",
           "step1Label": "Configure Activity"
         }
     },
