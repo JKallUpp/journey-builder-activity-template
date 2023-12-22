@@ -12,7 +12,7 @@
           "description": "An activity to send SMS",
           "step1Label": "Configure Activity"
         }
-    }
+    },
     "userInterfaces": {
         "configModal": {
             "height": 400,
