@@ -5,7 +5,7 @@ connection.trigger('ready');
 
 connection.on('initActivity', function ( data ) {
     // document.getElementById( 'SMS' ).value = JSON.stringify( data, null, 2);
-    var wert = 1;
+    const wert = 1;
     document.getElementById( 'SMS' ).value = wert;
     
 });
