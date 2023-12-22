@@ -13,4 +13,11 @@
           "step1Label": "Configure Activity"
         }
     }
+    "userInterfaces": {
+        "configModal": {
+            "height": 400,
+            "width": 1000,
+          "fullscreen": false
+        }
+    }
 }
